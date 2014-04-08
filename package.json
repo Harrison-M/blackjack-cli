@@ -1,0 +1,31 @@
+{
+  "name": "blackjack-cli",
+  "version": "0.1.0",
+  "description": "The highest stakes blackjack",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "0.2.x",
+    "shuffle": "0.2.x",
+    "underscore": "1.6.x",
+    "chalk": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "blackjack-cli": "./blackjack-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harrison-M/blackjack-cli"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "Harrison M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harrison-M/blackjack-cli/issues"
+  },
+  "homepage": "https://github.com/Harrison-M/blackjack-cli"
+}
